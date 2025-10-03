@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'ローカル実行ワークフローは、エミュレーターを利用し、ローカル環境での動作確認を行います。'
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
 ---
 # ローカル実行ワークフロー
 

@@ -1,6 +1,6 @@
 ---
 description: 'Azure リソースの正常性を分析し、ログとテレメトリから問題を診断し、特定された問題に対する是正計画を作成します。'
-tools: ['codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'terminalSelection', 'terminalLastCommand', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'extensions', 'runTests', 'editFiles', 'search', 'new', 'runCommands', 'runTasks', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'codebase', 'think', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP',]
 ---
 
 

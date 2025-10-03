@@ -1,6 +1,6 @@
 ---
 description: 'Azure Well-Architected Framework の原則と Microsoft のベスト プラクティスに基づいて、Azure プリンシパル アーキテクトとしての専門的なガイダンスを提供します。'
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP', 'azure_design_architecture', 'bestpractices']
+tools: ['edit', 'changes', 'codebase', 'think', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP',]
 ---
 
 # Azure プリンシパル アーキテクト モードの手順

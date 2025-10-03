@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'Azd Up準備ワークフローは、これまでの成果をもとにazd upで一括でデプロイする準備を行います'
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
 ---
 
 Azd UP準備ワークフローは、現在の構成でAzd Upをユーザが実行するための準備を行い、手順書を作成します。

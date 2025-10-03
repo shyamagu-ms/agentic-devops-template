@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: '設計書作成ワークフローは、要件定義書を元に実装可能なレベルの設計書を作成します。'
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'problems', 'runTasks', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'usages', 'vscodeAPI','microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
 ---
 # 設計書作成ワークフロー
 

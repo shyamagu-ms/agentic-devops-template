@@ -1,6 +1,6 @@
 ---
 description: 'Azure リソースを分析し、提示された変更や新機能が影響があるかを判断します'
-tools: ['codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'testFailure', 'terminalSelection', 'terminalLastCommand', 'openSimpleBrowser', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'extensions', 'runTests', 'editFiles', 'search', 'new', 'runCommands', 'runTasks', 'microsoft-docs', 'Azure MCP']
+tools: ['codebase', 'usages', 'vscodeAPI', 'think', 'problems', 'changes', 'fetch', 'searchResults', 'extensions', 'editFiles', 'search', 'new', 'runCommands', 'runTasks', 'microsoft-docs', 'Azure MCP']
 ---
 
 
