@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'GitHub Sparkフロントエンドコード改修ワークフローは、フロントエンドのコードを改修しローカル実行できるようにします'
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'think','problems', 'runTasks', 'search', 'searchResults','terminalLastCommand', 'terminalSelection',]
+tools: ['changes', 'search', 'edit', 'extensions', 'fetch', 'think','problems', 'runTasks', 'search','runCommands']
 ---
 # GitHub Sparkフロントエンドコード改修ワークフロー
 

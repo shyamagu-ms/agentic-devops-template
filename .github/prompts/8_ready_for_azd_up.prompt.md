@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'Azd Up準備ワークフローは、これまでの成果をもとにazd upで一括でデプロイする準備を行います'
-tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
 ---
 
 Azd UP準備ワークフローは、現在の構成でAzd Upをユーザが実行するための準備を行い、手順書を作成します。
@@ -41,11 +41,12 @@ Azd UP準備ワークフローは、現在の構成でAzd Upをユーザが実�
  - 最終的にAzd upで一括デプロイできるようにするために、足りない記載や不足している要素を既存成果物から洗い出します
  - infra/data/back/front の順に確認します
   - 各フォルダに格納されているdeployment.mdを確認し、修正が必要であれば実施します。
+  - infra成果物にあるbicepは実ビルドの成功まで確認がとれています。
 
 ## 2.対応
  - 分析フェーズで設定や実装不整合や不備があれば対応します。
  - 不足している情報があれば都度ユーザに確認を求めます。
-  - **最終的にパラメータを外だしできる設定は確認が不要です**
+  - **最終的にパラメータを外だしできる設定は、外だし後にデプロイガイドに記載をしてください。**
 
 ## 3. Azure Developer CLI 準備
  - `/.azure`や`azure.yaml`を作成します。

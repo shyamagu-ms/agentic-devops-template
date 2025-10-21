@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'フロントエンド実装ワークフローは、要件定義書、設計書を元に既存のフロントエンド成果物を更新します。'
-tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
 ---
 # フロントエンド実装ワークフロー
 
@@ -36,7 +36,7 @@ tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'gith
 **常に最新情報を取得する**
 マイクロソフトAzureやGitHubテクノロジーに関して記載する場合は、ツール'microsoft-docs'や'Azure MCP'を使用して最新情報を取得し、最新で正確な全情報を読み込むこと。
 
-**必要に応じて**[要件定義書](../../docs/plan/requirements.md)や[OpenAPI仕様](../../back/FunctionApp/OpenApi/openapi.json)を参照する。
+**必要に応じて**[要件定義書](../../docs/plan/requirements.md)やOpenAPI仕様ドキュメント(openapi.json)を参照する。
 
 **必ず利用すべきドキュメント:**
  - [フロントエンド設計](../../docs/design/design_front.md)

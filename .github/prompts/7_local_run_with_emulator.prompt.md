@@ -1,7 +1,7 @@
 ---
 mode: 'agent'
 description: 'ローカル実行ワークフローは、エミュレーターを利用し、ローカル環境での動作確認を行います。'
-tools: ['edit', 'changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs', 'Azure MCP']
+tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'think', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
 ---
 # ローカル実行ワークフロー
 
@@ -24,7 +24,7 @@ Azure Functions/ Azure Static Web Apps エミュレータはコマンド起動�
 SQLDB/ Storage Emulatorのプロセスは起動済みであることを前提とする
 
 ### SQL Database Emulator
- - localhost:1437
+ - localhost:1438
   - （必要に応じて以下の情報を利用、作成すること）
   - データベース名: 未作成
   - ユーザー名: `sa`
