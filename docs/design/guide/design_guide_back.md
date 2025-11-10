@@ -97,3 +97,7 @@
  - [概要ドキュメント](https://learn.microsoft.com/ja-jp/archive/msdn-magazine/2016/may/data-points-dapper-entity-framework-and-hybrid-apps)
 
 ---
+
+## 5. SKU
+
+ - Azure Functions Flex Consumption Plan を利用すること
