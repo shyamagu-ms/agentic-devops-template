@@ -1,6 +1,6 @@
 ---
 description: 'インフラストラクチャ実装ワークフローは、要件定義書、設計書を元に主にBicep成果物を作成します。'
-tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
 ---
 # インフラストラクチャ実装ワークフロー
 

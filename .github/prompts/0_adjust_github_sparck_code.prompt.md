@@ -1,6 +1,6 @@
 ---
 description: 'GitHub Sparkフロントエンドコード改修ワークフローは、フロントエンドのコードを改修しローカル実行できるようにします'
-tools: ['changes', 'search', 'edit', 'extensions', 'fetch', 'problems', 'runTasks', 'search','runCommands']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
 ---
 # GitHub Sparkフロントエンドコード改修ワークフロー
 

@@ -1,6 +1,6 @@
 ---
 description: 'Azure リソースを分析し、提示された変更や新機能が影響があるかを判断します'
-tools: ['search', 'usages', 'vscodeAPI', 'todos', 'problems', 'changes', 'fetch', 'extensions', 'edit', 'search', 'new', 'runCommands', 'runTasks', 'microsoft-docs/*', 'Azure MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'mermaidchart.vscode-mermaid-chart/get_syntax_docs', 'mermaidchart.vscode-mermaid-chart/mermaid-diagram-validator', 'todo', 'Azure-MCP/*']
 ---
 
 

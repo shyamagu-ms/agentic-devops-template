@@ -1,6 +1,6 @@
 ---
 description: 'ローカル実行ワークフローは、エミュレーターを利用し、ローカル環境での動作確認を行います。'
-tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
 ---
 # ローカル実行ワークフロー
 

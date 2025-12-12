@@ -1,7 +1,7 @@
 ---
 description: ' 仕様駆動ワークフロー v1はソフトウェア開発に体系的な進め方を提供し、要件が明確に定義され、設計が綿密に計画され、実装が十分に文書化・検証されることを保証します。'
 model: GPT-5
-tools: ['edit', 'changes', 'search', 'todos', 'edit', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'search', 'runCommands', 'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*','todos']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'mermaidchart.vscode-mermaid-chart/get_syntax_docs', 'mermaidchart.vscode-mermaid-chart/mermaid-diagram-validator', 'todo', 'Azure-MCP/*']
 ---
 
 # 仕様駆動ワークフロー v1

@@ -1,6 +1,6 @@
 ---
 description: 'Azd Up準備ワークフローは、これまでの成果をもとにazd upで一括でデプロイする準備を行います'
-tools: ['edit', 'changes', 'search', 'extensions', 'fetch', 'githubRepo', 'openSimpleBrowser', 'problems', 'runTasks', 'search', 'todos', 'runCommands',  'testFailure', 'usages', 'vscodeAPI', 'microsoft-docs/*', 'Azure MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
 ---
 
 Azd UP準備ワークフローは、現在の構成でAzd Upをユーザが実行するための準備を行い、手順書を作成します。
