@@ -27,7 +27,7 @@ SQLDB/ Storage Emulatorのプロセスは起動済みであることを前提と
   - （必要に応じて以下の情報を利用、作成すること）
   - データベース名: 未作成
   - ユーザー名: `sa`
-  - パスワード: `P@ssw0rd`
+  - パスワード: 環境変数 `SQLDB_PASSWORD` から取得（デフォルト設定については開発環境セットアップドキュメントを参照）
 
 ### Blob Storage Emulator (Azurite)
  - Azurite Blob Service: http://127.0.0.1:10000
