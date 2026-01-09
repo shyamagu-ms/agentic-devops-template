@@ -1,6 +1,6 @@
 ---
 description: 'バックエンド実装ワークフローは、要件定義書、設計書を元にAzure Functions成果物を作成します。'
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo']
 ---
 # バックエンド実装ワークフロー
 

@@ -1,6 +1,6 @@
 ---
 description: 'Azure Well-Architected Framework の原則と Microsoft のベスト プラクティスに基づいて、Azure プリンシパル アーキテクトとしての専門的なガイダンスを提供します。'
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo', 'Azure-MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'todo']
 ---
 
 # Azure プリンシパル アーキテクト モードの手順

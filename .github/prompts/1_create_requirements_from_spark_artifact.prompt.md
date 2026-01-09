@@ -1,6 +1,6 @@
 ---
 description: '要件定義書作成ワークフローは、フロントエンド成果物とそれに対するフィードバックを元に、要件定義書を作成します。'
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'mermaidchart.vscode-mermaid-chart/get_syntax_docs', 'mermaidchart.vscode-mermaid-chart/mermaid-diagram-validator', 'todo', 'Azure-MCP/*']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'microsoft-docs/*', 'agent', 'azure-mcp/*', 'mermaidchart.vscode-mermaid-chart/get_syntax_docs', 'mermaidchart.vscode-mermaid-chart/mermaid-diagram-validator', 'todo']
 ---
 # 要件定義書作成ワークフロー
 
